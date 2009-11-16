@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'ImageFromSprite' target in the 'ImageFromSprite' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
